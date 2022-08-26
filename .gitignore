@@ -1,0 +1,8 @@
+
+
+botenv/.env
+botenv/lib/
+botenv/bin/
+botenv/include/
+pyvenv.cfg
+__pycache__
